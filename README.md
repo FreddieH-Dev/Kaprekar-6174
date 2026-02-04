@@ -1,2 +1,1 @@
-# Kaprekar-6174
-Arranging the digits of the number in descending order to form the largest possible number and in ascending order to form the smallest possible number, then subtracting the smaller from the larger.  This operation is repeated with the result until the number 6174 is reached.
+Kaprekar's constant, or 6174, is a constant that arises when we take a 4-digit integer, form the largest and smallest numbers from its digits, and then subtract these two numbers. Continuing with this process of forming and subtracting, we will always arrive at the number 6174.
